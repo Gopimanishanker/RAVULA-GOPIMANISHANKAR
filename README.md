@@ -18,7 +18,7 @@
 
 1. Open terminal and navigate to the folder containing the `.java` files.  
    ```bash
-   cd BURUGUPALLI-SAI-RAMA-KRISHNA
+   cd RAVULA-GOPIMANISHANKAR
    ------------------------------------------------------------------
 
    #@ TO COMPILE ALL PROGRAMS 
